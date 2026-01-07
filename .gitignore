@@ -2,3 +2,5 @@
 /.venv
 /.git
 /.ipynb_checkpoints
+/dashboard/.ipynb_checkpoints
+/dashboard/__pycache__
